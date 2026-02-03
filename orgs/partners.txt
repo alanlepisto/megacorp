@@ -1,3 +1,7 @@
 partner list
+<<<<<<< HEAD
 SalesInc
+=======
+
+>>>>>>> 13d3328 (F: Multi-conflict)
 TheStartup
